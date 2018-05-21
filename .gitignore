@@ -18,6 +18,9 @@
 .idea/**/sqlDataSources.xml
 .idea/**/dynamic.xml
 .idea/**/uiDesigner.xml
+.idea/modules.xml
+jpa-example.iml
+
 
 # Gradle:
 .idea/**/gradle.xml
